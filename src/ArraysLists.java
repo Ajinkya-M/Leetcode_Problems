@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ArraysLists {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Arraylist example:
 		int n = 5;
 		int d = 4;
 		int[] arr = new int[n];
