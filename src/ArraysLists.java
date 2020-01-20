@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class ArraysLists {
 
 	public static void main(String[] args) {
-		// Arraylist example:
+		/**
+		 * Array example :
+		 */
 		int n = 5;
 		int d = 4;
 		int[] arr = new int[n];
