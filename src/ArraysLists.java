@@ -4,7 +4,7 @@ public class ArraysLists {
 
 	public static void main(String[] args) {
 		/**
-		 * Array example :
+		 * Arrays Example for git tutorial:
 		 */
 		int n = 5;
 		int d = 4;
