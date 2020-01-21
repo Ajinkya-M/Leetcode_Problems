@@ -5,7 +5,8 @@ public class ArraysLists {
 	public static void main(String[] args) {
 		/**
 		 * Arrays Example for git tutorial:
-		 */
+		 * making it multiline.
+       */
 		int n = 5;
 		int d = 4;
 		int[] arr = new int[n];
